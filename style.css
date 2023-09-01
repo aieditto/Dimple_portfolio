@@ -78,11 +78,9 @@ p {
 
 .half-width {
     width: 348px;
-    height: 160px;
+    height: 200px;
     left: 135px;
-
     color: #ffffff;
-
     float: left;
     margin-left: 5%;
     padding-left: 5%;
@@ -91,7 +89,7 @@ p {
 
 .half-width img {
     width: 100%;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .link-button {
@@ -133,7 +131,7 @@ p {
 
 #music {
     border: 2px solid #f9004d;
-    margin-top: 30px;
+    margin-top: 10px;
     padding: 10px;
 }
 
